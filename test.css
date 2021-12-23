@@ -1,0 +1,265 @@
+/********* Hover image et texte *******/
+
+/* Overlay */
+.overlay-image .hover {
+ position: absolute;
+
+ height: 170px;
+ width: 300px;
+ opacity: 0;
+ transition: .5s ease;
+ margin-top: 200px;
+ margin-left: 100px;
+}
+
+/* Apparition overlay sur passage souris */
+.overlay-image:hover .hover {
+ opacity: 1;
+ display: block;
+}
+
+
+
+/********* Hover background et texte uniquement *******/
+
+.overlay-image .normal {
+ transition: .5s ease;
+}
+.overlay-image:hover .normal {
+ opacity: 0;
+}
+.overlay-image .hover {
+ background-color: rgba(0,0,0,0.5);
+ color: white;
+
+}
+
+
+.survol{
+    float: left;
+    margin-top: 200px;
+    height: 170px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+/********* Hover image et texte *******/
+
+/* Overlay */
+.overlay-image2 .hover2 {
+ position: absolute;
+
+ height: 170px;
+ width: 300px;
+ opacity: 0;
+ transition: .5s ease;
+ margin-top: 200px;
+ margin-left: 420px;
+}
+
+/* Apparition overlay sur passage souris */
+.overlay-image2:hover .hover2 {
+ opacity: 1;
+ display: block;
+}
+
+
+
+/********* Hover background et texte uniquement *******/
+
+.overlay-image2 .normal2 {
+ transition: .5s ease;
+}
+.overlay-image2:hover .normal2 {
+ opacity: 0;
+}
+.overlay-image2 .hover2 {
+ background-color: rgba(0,0,0,0.5);
+ color: white;
+
+}
+
+
+.survol2{
+    float: left;
+    margin-top: 200px;
+    height: 170px;
+    width: 300px;
+    margin-left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********* Hover image et texte *******/
+
+/* Overlay */
+.overlay-image3 .hover3 {
+ position: absolute;
+
+ height: 170px;
+ width: 300px;
+ opacity: 0;
+ transition: .5s ease;
+ margin-top: 400px;
+ margin-left: 100px;
+}
+
+/* Apparition overlay sur passage souris */
+.overlay-image3:hover .hover3 {
+ opacity: 1;
+ display: block;
+}
+
+
+
+/********* Hover background et texte uniquement *******/
+
+.overlay-image3 .normal3 {
+ transition: .5s ease;
+}
+.overlay-image3:hover .normal3 {
+ opacity: 0;
+}
+.overlay-image3 .hover3 {
+ background-color: rgba(0,0,0,0.5);
+ color: white;
+
+}
+
+
+.survol3{
+    float: left;
+    margin-top: 30px;
+    height: 170px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+/********* Hover image et texte *******/
+
+/* Overlay */
+.overlay-image4 .hover4 {
+ position: absolute;
+
+ height: 170px;
+ width: 300px;
+ opacity: 0;
+ transition: .5s ease;
+ margin-top: 400px;
+ margin-left: 420px;
+}
+
+/* Apparition overlay sur passage souris */
+.overlay-image4:hover .hover4 {
+ opacity: 1;
+ display: block;
+}
+
+
+
+/********* Hover background et texte uniquement *******/
+
+.overlay-image4 .normal4 {
+ transition: .5s ease;
+}
+.overlay-image4:hover .normal4 {
+ opacity: 0;
+}
+.overlay-image4 .hover4 {
+ background-color: rgba(0,0,0,0.5);
+ color: white;
+
+}
+
+
+.survol4{
+    float: left;
+    margin-top: 30px;
+    height: 170px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+
+
+
+
+/********* Hover image et texte *******/
+
+/* Overlay */
+.overlay-image5 .hover5 {
+ position: absolute;
+
+ height: 170px;
+ width: 300px;
+ opacity: 0;
+ transition: .5s ease;
+ margin-top: 600px;
+ margin-left: 100px;
+}
+
+/* Apparition overlay sur passage souris */
+.overlay-image5:hover .hover5 {
+ opacity: 1;
+ display: block;
+}
+
+
+
+/********* Hover background et texte uniquement *******/
+
+.overlay-image5 .normal5 {
+ transition: .5s ease;
+}
+.overlay-image5:hover .normal5 {
+ opacity: 0;
+}
+.overlay-image5 .hover5 {
+ background-color: rgba(0,0,0,0.5);
+ color: white;
+
+}
+
+
+.survol5{
+    float: left;
+    margin-top: 30px;
+    height: 170px;
+    width: 300px;
+    margin-left: 100px;
+}
+
+
+
+
+
